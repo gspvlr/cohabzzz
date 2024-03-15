@@ -10,14 +10,14 @@
 
 
 
-### Main skills:
+## 🦾 &nbsp;Main skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,js,cs,dotnet" />
   </a>
 </p>
 
-### Tools:
+## 🛠 &nbsp;Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,git,github,discord,figma" />
@@ -25,14 +25,14 @@
 </p>
 
 
-### Other Knowledge:
+## 📌 &nbsp;Other Knowledge:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,mysql,ts,bootstrap,ts,postgres,yarn" />
   </a>
 </p>
 
-### Studying in this moment:
+## 📚 &nbsp;Studying In This Moment:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js," />
@@ -44,6 +44,9 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{cohabzzz}/count.svg" /></p> 
 <br></div>
+
+## 🎫 &nbsp;Social Links
+
   <div align="center"
    <a href="https://https://discord.gg/M32vmW4Qvk" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a> 
    <a href = "mailto:suportepereirati@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
