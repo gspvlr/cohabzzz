@@ -1,8 +1,8 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1100&lines=Hello,+My+Name+is+Gabriel+De+Souza+Pereira;I'm+19+years+old;I+am+from+Blumenau,+SC;I+Study+Analysis+And+Systems+Sevelopment+At+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1100&lines=Hello,+My+Name+is+Gabriel+De+Souza+Pereira;I'm+20+years+old;I+am+from+Blumenau,+SC;I+Study+Analysis+And+Systems+Sevelopment+At+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1100&lines=Olá,+Meu+Nome+é+Gabriel+De+Souza+Pereira;Eu+Tenho+19+anos;Eu+Sou+De+Blumenau,+SC;Eu+Estudo+Análise+E+Desenvolvimento+De+Sistemas+No+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1100&lines=Olá,+Meu+Nome+é+Gabriel+De+Souza+Pereira;Eu+Tenho+20+anos;Eu+Sou+De+Blumenau,+SC;Eu+Estudo+Análise+E+Desenvolvimento+De+Sistemas+No+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
